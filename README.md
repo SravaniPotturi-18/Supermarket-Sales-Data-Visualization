@@ -45,7 +45,6 @@ The dashboard includes:
 - Sales by Customer Type
 - Sales by Gender
 - Sales by Branch
-- Key Business Insights
 
 ## Key Business Insights
 
