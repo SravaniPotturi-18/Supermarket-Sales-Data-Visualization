@@ -69,13 +69,6 @@ This project helped develop practical skills in:
 - Dashboard Design
 - Communicating Business Insights
 
-## Files Included
-
-- `Supermarket.csv` – Dataset used for analysis
-- `Supermarket_Sales_Analysis.pbix` – Power BI dashboard file
-- `Supermarket_Sales_Analysis_Report.pdf` – Dashboard report
-- `dashboard_screenshot.png` – Dashboard preview
-
 ## Conclusion
 
 The project demonstrates how raw sales data can be transformed into meaningful visual insights using Power BI. The dashboard helps identify sales performance across products, cities, branches, customer types, and genders, supporting better business understanding and decision-making.
